@@ -37,7 +37,7 @@ if(output==score){
 
 });
 
-console.log("hello");
+console.log("helloc");
 
 console.log(document.querySelector("form"));
 
